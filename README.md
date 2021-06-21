@@ -26,8 +26,6 @@ cd OrzOpenCV && \
 
 ## 工程引用
 
-需要安装`git-lfs`拉取大文件, 如果拉不下来，命令`git lfs install --skip-smudge`可能会有用。
-
 - 分支依赖
 
 ```swift
